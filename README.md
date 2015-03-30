@@ -7,6 +7,7 @@ notes for "The C++ Programming Language" 4th edition by Bjarne Stroustrup
   - 3. A Tour of C++: Abstraction Mechanisms
   - 4. A Tour of C++: Containers and Algorithms
   - 5. A Tour of C++: Concurrency and Utilities
+
 ## Part 2: Basic Facillities
   - 6. Types and Declarations
   - 7. Pointers, Arrays and References
@@ -18,6 +19,7 @@ notes for "The C++ Programming Language" 4th edition by Bjarne Stroustrup
   - 13. Exception Handling
   - 14. Namespaces
   - 15. Source Files and Programs
+
 ## Part 3: Abstraction Mechanisms
   - 16. Classes
   - 17. Construction, Cleanup, Copy and Move
@@ -33,6 +35,7 @@ notes for "The C++ Programming Language" 4th edition by Bjarne Stroustrup
   - 27. Templates and Hierarchies
   - 28. Metaprogramming
   - 29. A Matrix Design
+
 ## Part 4: The Standard Library
   - 30. Standard Library Summary
   - 31. STL Containers
